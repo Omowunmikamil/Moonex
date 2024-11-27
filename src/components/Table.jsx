@@ -2,7 +2,7 @@ import { asserts } from "../assets/assets";
 
 const Table = () => {
   return (
-    <div>
+    <div className="w-full">
       <div className="absolute top-[16%] md::top-[43%] lg:left-20 z-8 lg:w-4/5 pl-4 md:pl-10 lg:pl-12">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-ultraBold text-white font-extrabold">
           Why
