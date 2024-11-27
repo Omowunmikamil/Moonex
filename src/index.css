@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-pageBg;
+  }
+}
+
+* {
+  font-family: Raleway;
+}
+
+@font-face {
+  font-family: "Ultrabold";
+  src: local("NeueMachina-Ultrabold");
+  src: url("/fonts/NeueMachina-Ultrabold.otf") format("otf");
+}
+
+@font-face {
+  font-family: "Regular";
+  src: local("NeueMachina-Regular");
+  src: url("/fonts/NeueMachina-Regular.otf") format("otf");
+}
+
+a.active {
+  color: #edd955;
+}
