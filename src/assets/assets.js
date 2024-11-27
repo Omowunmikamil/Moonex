@@ -12,7 +12,7 @@ import plus from "./Minus.svg";
 import options from "./Options.svg";
 import phone from "./phone.svg";
 import shield from "./Shield_Check.svg";
-import telegram from "./Social_icons.png";
+import telegram from "./Social_Icons.png";
 import twitter from "./Twitter.svg";
 import uniswap from "./Uniswap.png";
 import vector from "./Vector.svg";
