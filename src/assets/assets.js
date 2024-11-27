@@ -10,7 +10,7 @@ import footerLogo from "./footer-logo.svg";
 import foreground from "./foreground.png";
 import plus from "./Minus_L.svg";
 import options from "./Options_3.svg";
-import phone from "./Phone_off.svg";
+import phone from "./phone_off.svg";
 import shield from "./Shield_Check.svg";
 import telegram from "./Social_icons.png";
 import twitter from "./Twitter.svg";
