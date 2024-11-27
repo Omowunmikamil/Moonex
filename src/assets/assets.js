@@ -37,3 +37,27 @@ export const asserts = {
   uniswap,
   vector,
 };
+
+export const table = [
+  { comperison: "1 . Point no one", moonex: [checkBold], uniswap: [close] },
+  {
+    comperison: "2 . Point no two this",
+    moonex: [checkBold],
+    uniswap: [close],
+  },
+  {
+    comperison: "3 . Point no two this",
+    moonex: [checkBold],
+    uniswap: [close],
+  },
+  {
+    comperison: "4 . Point no two this",
+    moonex: [checkBold],
+    uniswap: [close],
+  },
+  {
+    comperison: "5 . Point no two this",
+    moonex: [checkBold],
+    uniswap: [close],
+  },
+];

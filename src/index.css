@@ -17,15 +17,21 @@
 @font-face {
   font-family: "Ultrabold";
   src: local("NeueMachina-Ultrabold");
-  src: url("/fonts/NeueMachina-Ultrabold.otf") format("otf");
+  src: url("/fonts/NeueMachina-Ultrabold.otf") format("opentype");
 }
 
 @font-face {
   font-family: "Regular";
   src: local("NeueMachina-Regular");
-  src: url("/fonts/NeueMachina-Regular.otf") format("otf");
+  src: url("/fonts/NeueMachina-Regular.otf") format("opentype");
 }
 
-a.active {
+button.active {
   color: #edd955;
+}
+
+.content:hover {
+  background: transparent;
+  color: #e4b40d;
+  border: 2px solid #e4b40d;
 }
